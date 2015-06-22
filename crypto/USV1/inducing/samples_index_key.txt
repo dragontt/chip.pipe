@@ -1,0 +1,7 @@
+#barcode	name
+run_830_s_3_withindex_sequence.txt_ATCGAGC.fq	USV1-HA.MOCK
+run_830_s_3_withindex_sequence.txt_ATGACAG.fq	WT.IN
+run_830_s_3_withindex_sequence.txt_CACCTCC.fq	USV1-HA.IP
+run_830_s_3_withindex_sequence.txt_GCTTAGA.fq	WT.MOCK
+run_830_s_3_withindex_sequence.txt_TACTCTA.fq	USV1-HA.IN
+run_830_s_3_withindex_sequence.txt_TGAGGTT.fq	WT.IP
